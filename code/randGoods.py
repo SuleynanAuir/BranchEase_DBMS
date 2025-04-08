@@ -1,0 +1,65 @@
+imgList = [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,    
+    "IMG_MainPage/img_randGoods/p10.jpeg",
+    "IMG_MainPage/img_randGoods/p11.jpeg",
+    "IMG_MainPage/img_randGoods/p12.jpeg",
+    "IMG_MainPage/img_randGoods/p13.jpeg",
+    "IMG_MainPage/img_randGoods/p14.webp",
+    "IMG_MainPage/img_randGoods/p15.webp",
+    "IMG_MainPage/img_randGoods/p16.jpeg",
+    "IMG_MainPage/img_randGoods/p17.jpeg",
+    "IMG_MainPage/img_randGoods/p18.jpeg",
+    "IMG_MainPage/img_randGoods/p19.jpeg",
+    "IMG_MainPage/img_randGoods/p20.jpeg",
+    "IMG_MainPage/img_randGoods/p21.jpeg",
+    "IMG_MainPage/img_randGoods/p22.jpeg",
+    "IMG_MainPage/img_randGoods/p23.jpeg",
+    "IMG_MainPage/img_randGoods/p24.png",
+    "IMG_MainPage/img_randGoods/p25.jpeg",
+    "IMG_MainPage/img_randGoods/p26.jpeg",
+    "IMG_MainPage/img_randGoods/p27.jpeg",
+    "IMG_MainPage/img_randGoods/p28.jpeg",
+    "IMG_MainPage/img_randGoods/p29.webp",
+    "IMG_MainPage/img_randGoods/p30.jpeg",
+    "IMG_MainPage/img_randGoods/p31.webp",
+    "IMG_MainPage/img_randGoods/p32.jpeg",
+    "IMG_MainPage/img_randGoods/p33.jpeg",
+    "IMG_MainPage/img_randGoods/p34.jpeg",
+    "IMG_MainPage/img_randGoods/p35.jpeg",    
+    "IMG_MainPage/img_randGoods/p36.jpg",
+    "IMG_MainPage/img_randGoods/p37.jpeg",
+    "IMG_MainPage/img_randGoods/p38.jpeg",
+    "IMG_MainPage/img_randGoods/p39.jpeg",
+    "IMG_MainPage/img_randGoods/p40.jpeg",
+    "IMG_MainPage/img_randGoods/p41.webp",
+    "IMG_MainPage/img_randGoods/p42.webp",
+    "IMG_MainPage/img_randGoods/p43.jpeg",
+    "IMG_MainPage/img_randGoods/p44.jpeg",
+    "IMG_MainPage/img_randGoods/p45.jpeg",
+    "IMG_MainPage/img_randGoods/p46.jpeg",
+    "IMG_MainPage/img_randGoods/p47.jpg",
+    "IMG_MainPage/img_randGoods/p48.jpeg",
+    "IMG_MainPage/img_randGoods/p49.jpeg",
+    "IMG_MainPage/img_randGoods/p50.jpeg",
+    "IMG_MainPage/img_randGoods/p51.jpg",
+    "IMG_MainPage/img_randGoods/p52.jpg",
+    "IMG_MainPage/img_randGoods/p53.jpg"
+]
+def add_image_path(path):
+    global imgList
+    imgList.append(path)
+    
+print(len(imgList))
+
+
+
+
